@@ -2,7 +2,7 @@
  * Javascript Factory design pattern.
  * Solving a develop company employee problem.
  * @param name string name of the employee.
- * @param type number code that represent the typeof the position.
+ * @param type number code that represent the position of the current employee  .
  */
 
 function developer(name){
